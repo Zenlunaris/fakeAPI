@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
       "email": "taiphan0310@gmail.com"
     }
-  ],
+  ]
 }
